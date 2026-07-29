@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/Meshes/SM_Bullet.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/Meshes/SM_Chaser.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/Meshes/SM_Turret_Base.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/Meshes/SM_Turret_Body.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WC/XYCMS4U9P40DU037K4LWDN.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer_Part_I/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/SC/0LKO5COSPYHBMMNOFRVKFU.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer/Content/Audio/coin-recieved.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer/Content/Meshes/NPC.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/EO/2FG2P6K8N9GH9H5BKJU3XG.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer/Content/Meshes/WorldGridMaterial.uasset",
+				"C:/Users/Admin/Desktop/JMC_Platformer/Content/Meshes/SM_NPC.uasset"
+			]
+		}
+	]
+}
